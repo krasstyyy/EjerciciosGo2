@@ -51,7 +51,7 @@ Create `task.go` and `task_test.go` inside this folder. For every function, foll
 
 Use **table-driven tests** for all exercises.
 
-### Step 1: FormatTitle
+### Step 1: FormatTitle 
 
 Write a function `FormatTitle(s string) string` that trims whitespace and capitalizes the first letter.
 
